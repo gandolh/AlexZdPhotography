@@ -43,7 +43,7 @@ jQuery(document).ready(function ($) {
      ---------------------------------------------*/
 	
 	var windowWidth = $(window).width();
-    if (windowWidth > 757) {
+    if (windowWidth) {
 
         
           
